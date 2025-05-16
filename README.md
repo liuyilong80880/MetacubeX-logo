@@ -100,7 +100,7 @@
         <span style="font-size: 8px;">Bahamut_i</span>
     </td>
         <td align="center" style="padding: 10px;">
-        <img src="Icon/Color/bilibili.png" alt="bilibili.png" width="80" height="80"><br>
+        <img src="Icon/Color/Bilibili.png" alt="Bilibili.png" width="80" height="80"><br>
         <span style="font-size: 8px;">bilibili</span>
     </td>
     <td align="center" style="padding: 10px;">
