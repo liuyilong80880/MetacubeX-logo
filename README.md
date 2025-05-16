@@ -101,7 +101,7 @@
     </td>
         <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Bilibili.png" alt="Bilibili.png" width="80" height="80"><br>
-        <span style="font-size: 8px;">bilibili</span>
+        <span style="font-size: 8px;">Bilibili</span>
     </td>
     <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Bilibili_blue.png" alt="Bilibili_blue.png" width="90" height="90"><br>
