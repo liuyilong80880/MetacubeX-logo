@@ -99,8 +99,8 @@
         <img src="Icon/Color/Bahamut_i.png" alt="Bahamut_i.png" width="90" height="90"><br>
         <span style="font-size: 8px;">Bahamut_i</span>
     </td>
-    <td align="center" style="padding: 10px;">
-        <img src="Icon/Color/bilibili.png" alt="bilibili.png" width="90" height="90"><br>
+        <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/bilibili.png" alt="bilibili.png" width="80" height="80"><br>
         <span style="font-size: 8px;">bilibili</span>
     </td>
     <td align="center" style="padding: 10px;">
