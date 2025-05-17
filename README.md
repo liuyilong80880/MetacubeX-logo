@@ -1,28 +1,4 @@
-## 适用于mihomo - MetacubeX面板的Icon
-
-# 使用前：
-
-        需要了解编写规则配置(*.ymal)
-
-        需要了解使用mihomo - MetacubeX面板
-        
-
-# 使用指南：
-
-#### 1、Icons的命名本质上不和你的策略组相关联。
-
-2、建议同步到本地，便于阅读
-
-3、Icons地址请使用raw地址
-
-        例如：https://raw.githubusercontent.com/Vbaethon/HOMOMIX/main/Icon/Color/China.png
-
-#### 4、面板可以调节尺寸与距离
-
-# Icon版本：
-
-        等高版本（默认设置, “Color/”）
-        满高版本（“Color/Large”）
+## 适用于mihomo - MetacubeX面板的图标
 
 <!--start-icons-->
 
@@ -713,9 +689,3 @@
     </td></tr></table>
 
 <!--end-icons-->
-
-## 效果
-
-| 大小对比（手机截图） |
-|---|
-| ![电脑端](./Icon/Setup_3.png) |
